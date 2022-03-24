@@ -1,0 +1,1 @@
+<?php require "src/view_controller.php"; ?>
